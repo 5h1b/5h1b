@@ -10,7 +10,7 @@
 ---
 
 <h2 align="center">Stats</h2>
-<a href="https://github.com/LiveFireExercise">
+<a href="https://github.com/5h1b">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=5h1b" alt="Profile Views Count">
   </p>
