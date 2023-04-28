@@ -34,4 +34,4 @@
 - Development on the [Roblox](https://www.roblox.com) game platform, for personal projects.
   - [📑] Lua scripting (personal projects only)
   - [🏗️] Building (personal projects only)
-  - [[㊙️] Secret](https://www.youtube.com/watch?v=J9Tb5aNoo)
+  - [[㊙️] Secret](https://www.youtube.com/watch?v=J9Tb5aNoo-I)
