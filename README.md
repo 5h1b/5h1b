@@ -1,16 +1,37 @@
-### Hi there 👋
+🖖 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=d1eadf&width=435&lines=Hi%2C+I'm+Shibamata)](https://git.io/typing-svg)
 
-<!--
-**5h1b/5h1b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📑 I’m currently learning Lua.
+- ♀️ Pronouns: she/them
+- 💮 Fun fact: The oldest business in the world is [Kongō Gumi](https://en.wikipedia.org/wiki/Kong%C5%8D_Gumi).
 
-Here are some ideas to get you started:
+<a>
+  <img width="40%" src="https://lanyard-profile-readme.vercel.app/api/635220798956765184?hideTimestamp=true&idleMessage=AFK%20%20at%20the%20moment...&hideDiscrim=true" align="right" />
+</a>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Stats</h2>
+<a href="https://github.com/LiveFireExercise">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=5h1b" alt="Profile Views Count">
+  </p>
+</a>
+
+<p align="center">
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=100%;">
+      <img src="https://github-readme-stats.vercel.app/api/?username=5h1b&title_color=d1eadf&text_color=d1eadf&show_icons=true&bg_color=00000000&hide_border=true&icon_color=d1eadf&hide_title=false&count_private=true&hide=stars" />
+    </td>
+  </tr>
+</table>
+</p>
+
+
+### **Roblox:** [@5h1bas](https://www.roblox.com/users/786970300/profile)
+### **Discord:** @5h1ba#4948
+
+### What I do:
+- Development on the [Roblox](https://www.roblox.com) game platform, for personal projects.
+  - [📑] Lua scripting (personal projects only)
+  - [🏗️] Building (personal projects only)
+  - [[㊙️] Secret](https://www.youtube.com/watch?v=J9Tb5aNoo)
