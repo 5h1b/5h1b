@@ -27,8 +27,8 @@
 </p>
 
 
-### **Roblox:** [@5h1bas](https://www.roblox.com/users/786970300/profile)
-### **Discord:** @5h1ba#4948
+### **Roblox:** [5h1bas](https://www.roblox.com/users/786970300/profile)
+### **Discord Server:** [The Castle](https://discord.gg/KzQ4GYqh76)
 
 ### What I do:
 - Development on the [Roblox](https://www.roblox.com) game platform, for personal projects.
