@@ -1,6 +1,6 @@
-🖖 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=d1eadf&width=435&lines=Hi%2C+I'm+Shibamata)](https://git.io/typing-svg)
+🖖 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=d1eadf&width=435&lines=Hi%2C+I'm+Shibamata/ito/5h1ba)](https://git.io/typing-svg)
 
-- 📑 I’m currently learning Lua.
+- 📑 I’m currently learning Luau(roblox) and making modpacks for minecraft.
 - ♀️ Pronouns: she/them
 - 💮 Fun fact: The oldest business in the world is [Kongō Gumi](https://en.wikipedia.org/wiki/Kong%C5%8D_Gumi).
 
@@ -27,10 +27,12 @@
 </p>
 
 
-### **Roblox:** [5h1bas](https://www.roblox.com/users/786970300/profile)
-### **Discord Server:** [The Castle](https://discord.gg/KzQ4GYqh76)
+### **Roblox:** [@5H1BAs](https://www.roblox.com/users/786970300/profile)
+### **Minecraft:** [5h1ba](https://namemc.com/profile/5h1ba.1)
+### **Youtube:** [@5h1ba](https://www.youtube.com/@5h1ba)
 
 ### What I do:
 - Development on the [Roblox](https://www.roblox.com) game platform, for personal projects.
   - [📑] Lua scripting (personal projects only)
   - [🏗️] Building (personal projects only)
+- Development for modpacks on the [Minecraft](https://www.minecraft.net) game platform.
